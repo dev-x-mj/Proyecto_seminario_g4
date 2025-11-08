@@ -1,0 +1,21 @@
+--- Backend API ---
+
+fastapi
+uvicorn[standard]
+pydantic
+
+--- Frontend Dashboard ---
+
+streamlit
+requests
+
+--- Data Science & Modeling ---
+
+pandas
+statsmodels
+matplotlib
+
+--- Excel File Support ---
+
+openpyxl
+xlrd
