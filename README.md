@@ -18,29 +18,7 @@ Arquitectura del Proyecto
 
 El proyecto está organizado en una estructura modular de 3 capas para una clara separación de responsabilidades.
 
-Proyecto_seminario/
-│
-├── venv/                   # Entorno Virtual de Python
-│
-├── data/                   # 1. Capa de Datos
-│   └── US Superstore data.xls
-│
-├── notebooks/              # 2. Capa de Análisis (Investigación)
-│   └── analisis_exploratorio.ipynb
-│
-├── src/                    # 3. Capa de Lógica (El "Cerebro")
-│   ├── __init__.py
-│   ├── data_processing.py
-│   ├── sarima_model.py
-│   └── xgboost_model.py
-│
-├── api_service.py          # 4. Capa de Backend (El Servidor)
-│
-├── app.py                  # 5. Capa de Frontend (La Interfaz)
-│
-├── requirements.txt        # 6. Dependencias del Proyecto
-│
-└── README.md               # 7. Este archivo (Documentación)
+
 
 
 Tecnologías Utilizadas
